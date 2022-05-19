@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4906bed5.css",
+    "main.js": "/static/js/main.f8538601.js",
+    "static/media/lazarevafoto-2.png": "/static/media/lazarevafoto-2.c6934a04242a429d5dc1.png",
+    "static/media/background.svg": "/static/media/background.e3d74b46a206c73be623.svg",
+    "index.html": "/index.html",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.caf3ce0776209766c36f.svg",
+    "static/media/mail-icon.svg": "/static/media/mail-icon.e83856316b209e6e5a38.svg",
+    "static/media/folder-green.svg": "/static/media/folder-green.e009f89b4bcee17525a9.svg",
+    "static/media/folder-pink.svg": "/static/media/folder-pink.a4bc679d3ca423a10dcb.svg",
+    "static/media/folder-purple.svg": "/static/media/folder-purple.14d1e7db98f96d71274e.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.306d212f22dfad5d5534.svg",
+    "static/media/food-left-done.svg": "/static/media/food-left-done.1db27e08b339520f6e41.svg",
+    "static/media/food-left.svg": "/static/media/food-left.d61964ba69ffd81bf73a.svg",
+    "static/media/list-triangle.svg": "/static/media/list-triangle.592e50ada66c9841d75a.svg",
+    "main.4906bed5.css.map": "/static/css/main.4906bed5.css.map",
+    "main.f8538601.js.map": "/static/js/main.f8538601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4906bed5.css",
+    "static/js/main.f8538601.js"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "n_olenev",
+  "short_name": "n_olenev",
+  "icons": [
+    {
+      "src": "favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "theme_color": "#ffea00",
+  "background_color": "#ffea00",
+  "display": "standalone"
+}
