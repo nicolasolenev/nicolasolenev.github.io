@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4906bed5.css",
-    "main.js": "/static/js/main.f8538601.js",
+    "main.css": "/static/css/main.2b792f72.css",
+    "main.js": "/static/js/main.9064458d.js",
     "static/media/lazarevafoto-2.png": "/static/media/lazarevafoto-2.c6934a04242a429d5dc1.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.ec5b4aa91bb20a170451.jpeg",
     "static/media/background.svg": "/static/media/background.e3d74b46a206c73be623.svg",
     "index.html": "/index.html",
     "static/media/phone-icon.svg": "/static/media/phone-icon.caf3ce0776209766c36f.svg",
@@ -14,11 +15,11 @@
     "static/media/food-left-done.svg": "/static/media/food-left-done.1db27e08b339520f6e41.svg",
     "static/media/food-left.svg": "/static/media/food-left.d61964ba69ffd81bf73a.svg",
     "static/media/list-triangle.svg": "/static/media/list-triangle.592e50ada66c9841d75a.svg",
-    "main.4906bed5.css.map": "/static/css/main.4906bed5.css.map",
-    "main.f8538601.js.map": "/static/js/main.f8538601.js.map"
+    "main.2b792f72.css.map": "/static/css/main.2b792f72.css.map",
+    "main.9064458d.js.map": "/static/js/main.9064458d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4906bed5.css",
-    "static/js/main.f8538601.js"
+    "static/css/main.2b792f72.css",
+    "static/js/main.9064458d.js"
   ]
 }
