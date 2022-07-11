@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.99810cd8.css",
-    "main.js": "/static/js/main.fea22cd9.js",
+    "main.js": "/static/js/main.dacc751c.js",
     "static/media/lazarevafoto.png": "/static/media/lazarevafoto.c6934a04242a429d5dc1.png",
     "static/media/avatar.jpeg": "/static/media/avatar.94fda5940593289cc717.jpeg",
     "static/media/stickers.png": "/static/media/stickers.304ee687bcad34554d51.png",
@@ -17,10 +17,10 @@
     "static/media/food-left.svg": "/static/media/food-left.d61964ba69ffd81bf73a.svg",
     "static/media/list-triangle.svg": "/static/media/list-triangle.592e50ada66c9841d75a.svg",
     "main.99810cd8.css.map": "/static/css/main.99810cd8.css.map",
-    "main.fea22cd9.js.map": "/static/js/main.fea22cd9.js.map"
+    "main.dacc751c.js.map": "/static/js/main.dacc751c.js.map"
   },
   "entrypoints": [
     "static/css/main.99810cd8.css",
-    "static/js/main.fea22cd9.js"
+    "static/js/main.dacc751c.js"
   ]
 }
